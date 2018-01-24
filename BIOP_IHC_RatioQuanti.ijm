@@ -31,8 +31,8 @@ if(isOpen(bar_name)) {
 
 run("Action Bar",runFrom);
 exit();
-run("Action Bar","/plugins/ActionBar/BIOP_Bar_for_IHC_RatioQuanti.ijm");
-exit();
+//run("Action Bar","/plugins/ActionBar/BIOP_Bar_for_IHC_RatioQuanti.ijm");
+//exit();
 
 
 <codeLibrary>
@@ -336,10 +336,11 @@ batchProcessImage();
 <text><html><font size=3 color=#0C2981> Help
 <line>
 <button>
-label= contact
+label= Infos & Contact
 icon=noicon
 arg=<macro>
-biopUrl = "http://biop.epfl.ch/INFO_Facility.html#staff/";
+//biopUrl = "http://biop.epfl.ch/INFO_Facility.html#staff/";
+biopUrl = "https://c4science.ch/w/bioimaging_and_optics_platform_biop/image-processing/imagej_tools/ijab-biop_ihc_ratioquanti/"
 run("URL...", "url="+biopUrl);
 </macro>
 </line>
