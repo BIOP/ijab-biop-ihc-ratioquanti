@@ -30,10 +30,7 @@ if(isOpen(bar_name)) {
 }
 
 run("Action Bar",runFrom);
-exit();
-//run("Action Bar","/plugins/ActionBar/BIOP_Bar_for_IHC_RatioQuanti.ijm");
-//exit();
-
+exit();
 
 <codeLibrary>
 
