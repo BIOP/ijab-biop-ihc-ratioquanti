@@ -337,7 +337,7 @@ label= Infos & Contact
 icon=noicon
 arg=<macro>
 //biopUrl = "http://biop.epfl.ch/INFO_Facility.html#staff/";
-biopUrl = "https://c4science.ch/w/bioimaging_and_optics_platform_biop/image-processing/imagej_tools/ijab-biop_ihc_ratioquanti/"
+biopUrl = "https://c4science.ch/w/bioimaging_and_optics_platform_biop/image-processing/imagej_tools/ijab-ihc-ratio/"
 run("URL...", "url="+biopUrl);
 </macro>
 </line>
