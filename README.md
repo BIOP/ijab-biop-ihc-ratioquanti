@@ -1,4 +1,4 @@
-# BIOP IHC RatioQuanti 
+# BIOP IHC Ratio Quantification
 (ActionBar)
 
 For more details information/tutorials, visit : 
